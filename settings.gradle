@@ -1,7 +1,8 @@
 pluginManagement {
     repositories {
+        mavenCentral()
         gradlePluginPortal()
     }
 }
-rootProject.name = 'plugin-starter'
+rootProject.name = 'halo-plugin-toolbox'
 
